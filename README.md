@@ -36,7 +36,7 @@ Tenho interesse constante em explorar tecnologias emergentes e aprimorar process
 <ul>
 <li>Desenvolvimento de interfaces intuitivas e responsivas, focando na experiência do usuário.</li>
 <li>Foco em criação de aplicações escaláveis, performáticas e orientadas a melhores práticas.</li>
-<li>Experiência prática na integração de APIs RESTful e gerenciamento de bancos de dados relacionais.</li>
+<li>Conhecimento prático na integração de APIs RESTful e gerenciamento de bancos de dados relacionais.</li>
 <li>Conhecimento em boas práticas de desenvolvimento, incluindo otimização de performance e manutenção de código limpo e organizado.</li>
 </ul>
 
