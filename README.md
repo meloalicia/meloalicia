@@ -2,7 +2,7 @@
 
 <p>
 Graduanda em Análise e Desenvolvimento de Sistemas e estudante técnica em Programação de Sistemas.<br>
-Atuo no desenvolvimento fullstack com ênfase em <strong>Node.js</strong>, <strong>React</strong>, <strong>Next.js</strong> e <strong>SQL</strong>, sempre buscando construir soluções práticas que gerem impacto real. Minha prioridade é entregar funcionalidades funcionais e intuitivas, que facilitem o dia a dia dos usuários e agreguem valor ao negócio.<br><br>
+Atuo no desenvolvimento fullstack com ênfase em <strong>Node.js</strong>, <strong>React</strong>, <strong>Next.js</strong> e <strong>SQL</strong>, sempre buscando construir soluções práticas que gerem impacto real. Minha prioridade é entregar funcionalidades intuitivas, que facilitem o dia a dia dos usuários e agreguem valor ao negócio.<br><br>
 Tenho interesse constante em explorar tecnologias emergentes e aprimorar processos para tornar o desenvolvimento mais ágil e eficiente. Acredito que a tecnologia deve ser acessível e bem estruturada, promovendo inovação sem complicações desnecessárias.
 </p>
 
@@ -12,6 +12,7 @@ Tenho interesse constante em explorar tecnologias emergentes e aprimorar process
 <h2>🖥️ Sobre mim</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
@@ -26,7 +27,6 @@ Tenho interesse constante em explorar tecnologias emergentes e aprimorar process
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
   <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
 
 
 </div>
