@@ -13,7 +13,7 @@ Tenho interesse constante em explorar tecnologias emergentes e aprimorar process
 
 <ul>
 <li>Desenvolvimento de interfaces intuitivas e responsivas, focando na experiência do usuário.</li>
-<li>Foco em criação de aplicações escaláveis, performáticas e orientadas a melhores práticas</li>
+<li>Foco em criação de aplicações escaláveis, performáticas e orientadas a melhores práticas.</li>
 <li>Experiência prática na integração de APIs RESTful e gerenciamento de bancos de dados relacionais.</li>
 <li>Conhecimento em boas práticas de desenvolvimento, incluindo otimização de performance e manutenção de código limpo e organizado.</li>
 </ul>
@@ -29,7 +29,6 @@ Tenho interesse constante em explorar tecnologias emergentes e aprimorar process
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
@@ -41,4 +40,7 @@ Tenho interesse constante em explorar tecnologias emergentes e aprimorar process
 
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=meloalicia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 ###
