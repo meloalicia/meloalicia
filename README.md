@@ -2,7 +2,7 @@
 
 <p>
 Graduanda em Análise e Desenvolvimento de Sistemas e estudante técnica em Programação de Sistemas.<br>
-Atuo no desenvolvimento fullstack com ênfase em <strong>Node.js</strong>, <strong>React</strong>, <strong>Next.js</strong> e <strong>SQL</strong>, sempre buscando construir soluções práticas que gerem impacto real. Minha prioridade é entregar funcionalidades intuitivas, que facilitem o dia a dia dos usuários e agreguem valor ao negócio.<br><br>
+Atuo no desenvolvimento fullstack com ênfase em <strong>Python</strong>, <strong>React</strong>, <strong>Next.js</strong> e <strong>MySQL</strong>, sempre buscando construir soluções práticas que gerem impacto real. Minha prioridade é entregar funcionalidades intuitivas, que facilitem o dia a dia dos usuários e agreguem valor ao negócio.<br><br>
 Tenho interesse constante em explorar tecnologias emergentes e aprimorar processos para tornar o desenvolvimento mais ágil e eficiente. Acredito que a tecnologia deve ser acessível e bem estruturada, promovendo inovação sem complicações desnecessárias.
 </p>
 
